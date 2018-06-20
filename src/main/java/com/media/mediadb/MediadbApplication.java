@@ -8,6 +8,5 @@ public class MediadbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MediadbApplication.class, args);
-		new Date();
 	}
 }
